@@ -101,7 +101,7 @@ export default function Home() {
             </li>
           </ul>
         </div>
-        <section className="mt-16 text-start">
+        <section className="mt-16 px-10 text-start">
           <h2 className="text-3xl font-bold text-black mb-4">🚀 Currently Learning</h2>
           <p className="text-lg text-gray-900 max-w-2xl w-full ">
             I'm diving into the world of <span className="text-[#FF8C00] font-semibold">Machine Learning</span> and <span className="text-[#FF0080] font-semibold">Artificial Intelligence</span>, exploring concepts like neural networks, computer vision, and model training. Excited to build smart applications and solve real-world problems with AI!
